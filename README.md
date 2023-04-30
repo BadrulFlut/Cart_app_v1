@@ -1,6 +1,6 @@
 # apps_venturo_v3
 
-A new Flutter project.
+This is a project that was used for a test at one of the companies that I had tried before my internship at SMK
 
 ## Getting Started
 
